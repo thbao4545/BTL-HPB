@@ -1,0 +1,4 @@
+/mnt/f/CIoudSimulator/newbuild/CMakeFiles/ping-pong.dir
+/mnt/f/CIoudSimulator/newbuild/CMakeFiles/master-workers.dir
+/mnt/f/CIoudSimulator/newbuild/CMakeFiles/edit_cache.dir
+/mnt/f/CIoudSimulator/newbuild/CMakeFiles/rebuild_cache.dir

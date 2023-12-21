@@ -1,0 +1,4 @@
+/mnt/f/CloudSimulator/build/CMakeFiles/ping-pong.dir
+/mnt/f/CloudSimulator/build/CMakeFiles/master-workers.dir
+/mnt/f/CloudSimulator/build/CMakeFiles/edit_cache.dir
+/mnt/f/CloudSimulator/build/CMakeFiles/rebuild_cache.dir
